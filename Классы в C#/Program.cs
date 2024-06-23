@@ -10,6 +10,7 @@ namespace Классы_в_C_
     {
         /// <summary>
         /// Главная точка входа для приложения.
+        /// Комент от мороза
         /// </summary>
         [STAThread]
         static void Main()

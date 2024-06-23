@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Danya\\GitProject\\Cursach\\\u041A\u043B\u0430\u0441\u0441\u044B \u0432 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94ADFDD0-6457-4CC6-BC33-9B65DD6BF280}|\u041A\u043B\u0430\u0441\u0441\u044B \u0432 C#.csproj|d:\\projects\\danya\\gitproject\\cursach\\\u043A\u043B\u0430\u0441\u0441\u044B \u0432 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ADFDD0-6457-4CC6-BC33-9B65DD6BF280}|\u041A\u043B\u0430\u0441\u0441\u044B \u0432 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Danya\\GitProject\\Cursach\\\u041A\u043B\u0430\u0441\u0441\u044B \u0432 C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Danya\\GitProject\\Cursach\\\u041A\u043B\u0430\u0441\u0441\u044B \u0432 C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:36:43.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
