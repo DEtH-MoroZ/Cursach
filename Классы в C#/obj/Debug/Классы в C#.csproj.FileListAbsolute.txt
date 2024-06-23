@@ -1,0 +1,14 @@
+D:\Study\3 курс\КП и ЯП\Классы в C#\bin\Debug\Классы в C#.exe.config
+D:\Study\3 курс\КП и ЯП\Классы в C#\bin\Debug\Классы в C#.exe
+D:\Study\3 курс\КП и ЯП\Классы в C#\bin\Debug\Классы в C#.pdb
+D:\Study\3 курс\КП и ЯП\Классы в C#\bin\Debug\Guna.UI2.dll
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в C#.csproj.AssemblyReference.cache
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы_в_C_.FormGlav.resources
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы_в_C_.FormLogin.resources
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы_в_C_.FormRegistration.resources
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы_в_C_.Properties.Resources.resources
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в C#.csproj.GenerateResource.cache
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в C#.csproj.CoreCompileInputs.cache
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в.91AAD857.Up2Date
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в C#.exe
+D:\Study\3 курс\КП и ЯП\Классы в C#\obj\Debug\Классы в C#.pdb
